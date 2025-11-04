@@ -1,0 +1,19 @@
+name: graphcast-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - xarray
+  - netcdf4
+  - cdsapi
+  - numpy
+  - matplotlib
+  - cartopy
+  - tqdm
+  - pip:
+      - jax[cpu]
+      - flax
+      - optax
+      - dm-haiku
+      - ai-models-graphcast

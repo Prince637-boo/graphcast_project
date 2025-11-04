@@ -1,0 +1,11 @@
+# Ignorer les fichiers volumineux et sensibles
+*.nc
+*.zarr
+*.h5
+__pycache__/
+.cdsapirc
+*.env
+*.pkl
+*.pt
+data/
+outputs/
