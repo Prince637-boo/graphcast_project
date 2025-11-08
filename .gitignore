@@ -1,4 +1,6 @@
 # Ignorer les fichiers volumineux et sensibles
+era5_afrique_ouest_preprocessed.zarr.zip
+*.zip
 *.nc
 *.zarr
 *.h5
