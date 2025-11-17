@@ -1,7 +1,6 @@
 # 🌦️ Météo Précise par IA pour l'Énergie
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Available-orange)
-
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.95.2-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
